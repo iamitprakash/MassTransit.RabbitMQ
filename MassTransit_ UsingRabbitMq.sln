@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit_ UsingRabbitMq", "MassTransit_ UsingRabbitMq\MassTransit_ UsingRabbitMq.csproj", "{08037963-7D8C-41AA-924B-C1FF20CF05CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08037963-7D8C-41AA-924B-C1FF20CF05CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08037963-7D8C-41AA-924B-C1FF20CF05CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08037963-7D8C-41AA-924B-C1FF20CF05CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08037963-7D8C-41AA-924B-C1FF20CF05CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296616BA-4165-46C3-BEE8-4237B6D84FDF}
+	EndGlobalSection
+EndGlobal

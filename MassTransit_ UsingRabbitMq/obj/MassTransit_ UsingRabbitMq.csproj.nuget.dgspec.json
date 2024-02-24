@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/amitprakash/Projects/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq.csproj": {}
+  },
+  "projects": {
+    "/Users/amitprakash/Projects/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/amitprakash/Projects/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq.csproj",
+        "projectName": "MassTransit_ UsingRabbitMq",
+        "projectPath": "/Users/amitprakash/Projects/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq.csproj",
+        "packagesPath": "/Users/amitprakash/.nuget/packages/",
+        "outputPath": "/Users/amitprakash/Projects/MassTransit_ UsingRabbitMq/MassTransit_ UsingRabbitMq/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/amitprakash/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.3, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
